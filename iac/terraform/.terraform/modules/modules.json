@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"api_domain","Source":"./modules/apigw_domain","Dir":"modules/apigw_domain"},{"Key":"s3host","Source":"./modules/web_hosted","Dir":"modules/web_hosted"}]}
